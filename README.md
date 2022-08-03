@@ -1,5 +1,7 @@
 # MyNote
 
+# xss
+
 ```
 int remove(int[] nums, int target) {
     int size = nums.lenght;
