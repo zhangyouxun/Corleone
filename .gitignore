@@ -1,0 +1,14 @@
+*.iml
+*.ipr
+*.iws
+.idea
+*.DS_Store
+.DS_Store
+*/target
+*.class
+*/mybatis-plus-generator.yml
+*/logs
+logs
+.factorypath
+SimpleKafkaProducer.java
+*.xlsx
