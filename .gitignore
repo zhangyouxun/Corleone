@@ -12,3 +12,4 @@ logs
 .factorypath
 SimpleKafkaProducer.java
 *.xlsx
+/pluginCode
